@@ -1,5 +1,3 @@
-# Minecraft
+# Download
 
-Texture Packs:
-
-TheDarkCrystal Pack https://www.planetminecraft.com/texture-pack/thedarkcrystal-pack/
+Classic: https://www.planetminecraft.com/texture-pack/thedarkcrystal-pack/
